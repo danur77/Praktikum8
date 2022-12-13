@@ -13,7 +13,7 @@ Kelas : TI.22.A.1
 |2|Praktikum 8|[Click Here](#Praktikum-8)|
 |3|Diagram Class Praktikum 8|[Click Here](#Diagram-Class-Praktikum-8)|
 |4|Flowchart Praktikum 8|[Click Here](#flowchart-praktikum-8)|
-|5|Screenshot|[Click Here]|(#Screenshot)|
+
 
 ## Tugas Praktikum 8
 Buat program sederhana dengan mengaplikasikan penggunaan class. Buatlah class untuk menampilkan daftar nilai mahasiswa, dengan ketentuan:
